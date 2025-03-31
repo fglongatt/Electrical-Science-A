@@ -10,12 +10,16 @@ electrical circuits.
 ## Intended Learning Outcomes:
 
 On completion of the module, students should be able to:
+
 (1) Knowledge and Understanding
+
 - Analyse and predict the steady-state electrical response of linear DC and AC electrical systems (1-phase and 3-phase).
 - Analyse and predict the transient response of first-order electrical systems consisting of resistors and inductors or resistors and capacitors.
 - Calculate magneticfield strength, magnetic flux and electromagnetically induced voltages in simple geometries.
 - Analyse and predict the output response of ideal iron-core transformers to an AC input signal.
+  
 (2) Skills and Attributes
+
 Subject-specific skills
 (i) Intellectual/cognitive skills
 - Apply basic mathematical techniques used in Electronics, Electrical Engineering and Electromagnetism at a level sufficient to analyse simple electrical and electromagnetic problems.
@@ -23,7 +27,9 @@ Subject-specific skills
 - Set-up working DC and AC circuits in the laboratory, take measurements and interpret them.
 - Use computational tools for simulating the behaviour of DC and AC electrical circuits.
 - Make order of magnitude estimates of key quantities occurring in practical electromagnetic problems.
+  
 3. Key/Transferable skills
+   
 - Take notes during lectures.
 - Record a lab log.
 - Solve mathematical and conceptual problems.
